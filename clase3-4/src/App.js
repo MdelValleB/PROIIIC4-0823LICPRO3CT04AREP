@@ -1,4 +1,3 @@
-import './App.css';
 import Card from './componentes/Card/Card';
 import Nav from './componentes/Navbar/Navbar';
 import Category from './componentes/Category/Category';
